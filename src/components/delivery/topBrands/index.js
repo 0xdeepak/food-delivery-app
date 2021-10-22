@@ -1,5 +1,4 @@
 import React from "react";
-import Slider from "react-slick";
 import NextArrow from "../../common/carousel/nextArrow";
 import PrevArrow from "../../common/carousel/prevArrow";
 import "./topBrands.css";

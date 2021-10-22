@@ -9,11 +9,11 @@ import NightLife from "../../components/nightLife";
 const getScreen = (tab) => {
     switch (tab) {
         case "Delivery":
-            return <Delivery />; break;
+            return <Delivery />;
         case "Dining":
-            return <DiningOut />; break;
+            return <DiningOut />;
         case "NightLife":
-            return <NightLife />; break;
+            return <NightLife />;
         default:
             return <div>Delivery</div>
     }
