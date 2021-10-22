@@ -1,0 +1,11 @@
+.delivery-collections {
+    background: var(--secondary-bg);
+    width: 100%;
+    padding: 40px 0px;
+  }
+
+.slider {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
